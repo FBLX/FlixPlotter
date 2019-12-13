@@ -5,3 +5,6 @@ just another v-plotter using python and arduino
 
 ## link to the bushings
 https://www.ekugellager.de/16010_5
+
+# gondola
+![Alt text](/gondola.png?raw=true "...")
