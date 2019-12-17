@@ -1,4 +1,10 @@
 # FlixPlotter
-just another V-Plotter using Python and Arduino
+just another v-plotter using python and arduino
 
 # STILL WORK IN PROGRESS
+
+## link to the bushings
+https://www.ekugellager.de/16010_5
+
+# gondola
+![Alt text](/gondola.png?raw=true "...")
