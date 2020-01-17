@@ -7,4 +7,4 @@ just another v-plotter using python and arduino
 https://www.ekugellager.de/16010_5
 
 # gondola
-![Alt text](/gondola.png?raw=true "...")
+![Alt text](/assembly.png?raw=true "...")
